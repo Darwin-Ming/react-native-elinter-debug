@@ -1,2 +1,4 @@
-export { default as ElinterDebugView } from './ElinterDebugViewNativeComponent';
-export * from './ElinterDebugViewNativeComponent';
+// @ts-ignore
+export * from './debug/ChannelModal.js';
+// @ts-ignore
+export * from './debug/TimesButton.js';

@@ -1,6 +1,6 @@
 {
   "name": "react-native-elinter-debug",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "测试组件",
   "main": "./lib/module/index.js",
   "types": "./lib/typescript/src/index.d.ts",
@@ -49,7 +49,7 @@
     "type": "git",
     "url": "git+https://github.com/Darwin-Ming/react-native-elinter-debug.git"
   },
-  "author": "chintoumei <cdengming@e-linter.com> (https://github.com/Darwin-Ming)",
+  "author": "Darwin-Ming <chendengming@0817.com> (https://github.com/Darwin-Ming)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Darwin-Ming/react-native-elinter-debug/issues"
